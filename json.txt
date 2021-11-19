@@ -1,0 +1,60 @@
+{
+    nome: "rerere",
+    descrição: "ddfgffds",
+    poi: [
+      {
+        nome: "Arca",
+        descrição: "Sou uma arca",
+        marker:
+          "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+        modelo:
+          "https://raw.githubusercontent.com/AndreGoncaloLopes/Mybrary/main/cat.zip",
+        media: {
+          imagens: [
+            {
+              descrição: "ddsswe",
+              url: "https://images.unsplash.com/photo-1611689342806-0863700ce1e4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1935&q=80",
+              fileName: "aguia.jpg",
+            },
+            {
+              descrição: "jvlkvkjvc",
+              url: "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+              fileName: "leao.jpg",
+            },
+          ],
+          videos: [
+            {
+              descrição: "ddsafstrfd",
+              url: "http://techslides.com/demos/sample-videos/small.mp4",
+              fileName: "video.mp4",
+            },
+          ],
+          audio: [
+            {
+              descrição: "gfjkgofg",
+              url: "jidisixzijxz",
+              fileName: "audio.mp3",
+            },
+          ],
+        },
+      },
+      {
+        nome: "Ola",
+        descrição: "sjsdjds",
+        marker:
+          "https://images.unsplash.com/photo-1611689342806-0863700ce1e4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1935&q=80",
+        modelo:
+          "https://raw.githubusercontent.com/AndreGoncaloLopes/Mybrary/main/cat.zip",
+        media: {
+          imagens: [
+            {
+              descrição: "isto é apenas um teste",
+              url: "https://images.unsplash.com/photo-1439405326854-014607f694d7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+              fileName: "sea.jpg",
+            },
+          ],
+          videos: [],
+        },
+      },
+    ],
+  }
